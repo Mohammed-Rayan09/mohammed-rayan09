@@ -18,7 +18,7 @@ Skills: LARAVEL / PHP / BOOTSTRAP / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Mohammed-Rayan09)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mohammed-Rayan09)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Mohammed-Rayan09&show_icons=true)  
 
